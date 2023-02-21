@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-conversao-moeda/static/css/main.2b5de231.chunk.css",
+    "main.js": "/react-conversao-moeda/static/js/main.34c12695.chunk.js",
+    "main.js.map": "/react-conversao-moeda/static/js/main.34c12695.chunk.js.map",
+    "runtime-main.js": "/react-conversao-moeda/static/js/runtime-main.942a1098.js",
+    "runtime-main.js.map": "/react-conversao-moeda/static/js/runtime-main.942a1098.js.map",
+    "static/js/2.7820b255.chunk.js": "/react-conversao-moeda/static/js/2.7820b255.chunk.js",
+    "static/js/2.7820b255.chunk.js.map": "/react-conversao-moeda/static/js/2.7820b255.chunk.js.map",
+    "index.html": "/react-conversao-moeda/index.html",
+    "precache-manifest.ced235567f03d2d9c42b576d2600f9c2.js": "/react-conversao-moeda/precache-manifest.ced235567f03d2d9c42b576d2600f9c2.js",
+    "service-worker.js": "/react-conversao-moeda/service-worker.js",
+    "static/css/main.2b5de231.chunk.css.map": "/react-conversao-moeda/static/css/main.2b5de231.chunk.css.map",
+    "static/js/2.7820b255.chunk.js.LICENSE.txt": "/react-conversao-moeda/static/js/2.7820b255.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-conversao-moeda/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942a1098.js",
+    "static/js/2.7820b255.chunk.js",
+    "static/css/main.2b5de231.chunk.css",
+    "static/js/main.34c12695.chunk.js"
+  ]
+}
